@@ -31,7 +31,7 @@ Welcome to our Chat Application repository! This application allows users to eng
 - Start the server:
 
   ```
-  npm start
+  nodemon
   ```
 
 3. **Socket Setup:**
@@ -51,7 +51,7 @@ Welcome to our Chat Application repository! This application allows users to eng
 - Start the socket server:
 
   ```
-  npm start
+  nodemon
   ```
 
 4. **Client Setup:**
